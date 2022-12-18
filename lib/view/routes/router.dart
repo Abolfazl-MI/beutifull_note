@@ -12,8 +12,8 @@ const String splashScreen='/';
 
 List<GetPage> pages=[
   GetPage(name: splashScreen, page: ()=>const SplashScreen()), 
-  GetPage(name: signupScreen, page: ()=>const SignUpScreen()),
-  GetPage(name: loginScreen, page: ()=>const LoginScreen()), 
+  GetPage(name: signupScreen, page: ()=> SignUpScreen()),
+  GetPage(name: loginScreen, page: ()=> LoginScreen()), 
   GetPage(name: home, page: ()=>const HomeScreen()), 
   
 ];
