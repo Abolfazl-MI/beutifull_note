@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1046067428579",
+    "project_id": "beutifull-note",
+    "storage_bucket": "beutifull-note.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1046067428579:android:efd9eced6d18af5ed3d9d6",
+        "android_client_info": {
+          "package_name": "com.example.beutifull_note"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1046067428579-sqmmn0c7tctduijdln5j3pi8qsd2r8l0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAL1cym3HcoMab62Xp2qQZFzk9MF0MM7I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1046067428579-sqmmn0c7tctduijdln5j3pi8qsd2r8l0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
